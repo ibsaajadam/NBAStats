@@ -2,6 +2,7 @@
 Site created with React.js & TailwindCSS
 
 ## Table of contents
+* [Screenshots](#screenshots)
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -9,6 +10,10 @@ Site created with React.js & TailwindCSS
 * [Status](#status)
 * [Contact](#contact)
 * [TODO](#TODO)
+
+## Screenshots
+Screenshot of the Final Design.
+<img src="src/images/nba-stats.png">
 
 ## General info
 When the most recent NBA playoffs were going on, I thought this would be a cool project to start using React.js. Though it isn't connected to an API for the stats, I did think that would be a cool feature to implement in the future. I used TailwindCSS because I felt that it made styling the site a lot easier and allowed me to focus more on React. 
